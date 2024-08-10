@@ -1,0 +1,79 @@
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\bin\Debug\net8.0-windows\BarangayManagementSystem.exe
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\bin\Debug\net8.0-windows\BarangayManagementSystem.deps.json
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\bin\Debug\net8.0-windows\BarangayManagementSystem.runtimeconfig.json
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\bin\Debug\net8.0-windows\BarangayManagementSystem.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\bin\Debug\net8.0-windows\BarangayManagementSystem.pdb
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.Form1.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.vbproj.GenerateResource.cache
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.AssemblyInfo.vb
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\refint\BarangayManagementSystem.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.pdb
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.genruntimeconfig.cache
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\ref\BarangayManagementSystem.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.Resources.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.RegisterForm.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.vbproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.RegisterStaff.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\Barangay.4BFA54C3.Up2Date
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.DashboardForm.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.BrgyIssueForm.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.ResidentForm.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.AddStaff.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.BrgyProjectForm.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.DocumentForm.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.MaintenanceForm.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.PaymentForm.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.ReportForm.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.DashboardMainForm.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\bin\Debug\net8.0-windows\BarangayManagementSystem.exe
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\bin\Debug\net8.0-windows\BarangayManagementSystem.deps.json
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\bin\Debug\net8.0-windows\BarangayManagementSystem.runtimeconfig.json
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\bin\Debug\net8.0-windows\BarangayManagementSystem.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\bin\Debug\net8.0-windows\BarangayManagementSystem.pdb
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.vbproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.Resources.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.vbproj.GenerateResource.cache
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.AssemblyInfo.vb
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\Barangay.4BFA54C3.Up2Date
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\refint\BarangayManagementSystem.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.pdb
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.genruntimeconfig.cache
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\ref\BarangayManagementSystem.dll
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.UpdateAccForm.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmMaintenance.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmAccessLogs.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmBlotter.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmBrgyProject.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmOrgChart.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmPayment.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmReport.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmDashboard.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmLogin.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmMainForm.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmResident.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmDocument.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmOfficialDetails.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmResidentDetails.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmExample.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmOficialInfo.resources
+C:\Users\ACER\source\repos\BarangayManagementSystem - Copy\BarangayManagementSystem\obj\Debug\net8.0-windows\BarangayManagementSystem.frmBlotterDetails.resources
